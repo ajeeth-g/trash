@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div>
-      <h1>{`Follow -> codebyajeeth `}</h1>
+      <h1>{`Ajeeth `}</h1>
       {showInstallBtn && <button onClick={handleInstallClick}>Install App</button>}
     </div>
   );
